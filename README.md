@@ -6,5 +6,6 @@ The goal of this project is to find the optimum length of the chopstick for the 
 ### feedback:
 the data shape appears parabolic,Food pinching efficiency increase till it reaches the length of 240 mm and then it decreases with increasing length in chopstick
 * Highest efficiency = 240 mm
+
 ![](Project 1: Chopstick Length Analysis/chopsticklength-efficiency.png)
 
